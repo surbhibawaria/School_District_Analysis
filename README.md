@@ -53,6 +53,8 @@ _Repeated Analysis_:
 
 #### Math and Reading Scores by Grade
 
+Thomas High School have math average 83.6 and reading average 83.7 for the 9th grade in the original analysis. After replacing the ninth-grade scores, the math average and reading average values got chnages to 'nan', which are null-values in python programming language.
+
 _Original Analysis_:
 
 Original Math Scores by Grade
