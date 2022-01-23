@@ -27,6 +27,8 @@ _Repeated Analysis_:
  
 ### The School Summary
 
+For the school summary we can see below, there's a significant drop of percentage from the original analysis to repeated analysis. 
+
 _Original Analysis_:
 
 <img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
