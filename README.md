@@ -23,7 +23,7 @@ _Original Analysis_:
 
 <img width="975" alt="district_summary_original" src="https://user-images.githubusercontent.com/95826875/150697059-af02501f-45e8-413f-a85c-4a4b03c75411.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
 <img width="950" alt="district_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150697195-1a5403d8-dbfd-429b-8569-5ab2499b5e04.png">
 
