@@ -10,21 +10,37 @@ The pupose of this analysis is to help Maria analyze data on student funding and
 
 ## Results
 
-- How is the district summary affected?
+### How is the district summary affected?
 
-- How is the school summary affected?
+Original Analysis:
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+<img width="933" alt="district_summary_original" src="https://user-images.githubusercontent.com/95826875/150666020-80dc7051-2073-4f9b-963f-95c2b1545d20.png">
 
-- How does replacing the ninth-grade scores affect the following:
+Adjusted Analysis:
 
-- Math and reading scores by grade
+<img width="934" alt="district_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150666042-14d35856-72e3-4040-82f0-c7127bffedeb.png">
 
-- Scores by school spending
+### How is the school summary affected?
 
-- Scores by school size
+Original Analysis:
 
-- Scores by school type
+<img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
+
+Adjusted Analysis:
+
+<img width="1014" alt="School_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150667114-a7cdc613-30aa-4c6d-b41a-f13d2cf330da.png">
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+### How does replacing the ninth-grade scores affect the following:
+
+### Math and reading scores by grade
+
+### Scores by school spending
+
+### Scores by school size
+
+### Scores by school type
 
 ## Summary
 
