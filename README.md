@@ -10,7 +10,7 @@ The pupose of this analysis is to help Maria analyze data on student funding and
 
 ## Results
 
-### How is the district summary affected?
+### How is the District Summary affected?
 
 _Original Analysis_:
 
@@ -20,7 +20,7 @@ _Adjusted Analysis_:
 
 <img width="934" alt="district_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150666042-14d35856-72e3-4040-82f0-c7127bffedeb.png">
 
-### How is the school summary affected?
+### How is the School Summary affected?
 
 _Original Analysis_:
 
