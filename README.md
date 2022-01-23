@@ -14,7 +14,7 @@ After all the ninth-grade student data for Thomas High School was replaced with 
 
 ### The District Summary
 
-As we can see below, for the district summary, there are nominal changes in some of the values from the original analysis to the repeated analysis. Athough the average math score, average reading score, passing math percentage, passing reading percentage, and overall passing percentage show minute changes, the changes are less than 1% and can be round off easily. While rest of the data, total schools, total students, and total budget remains the same.
+As we can see below, for the district summary data, there are nominal changes in some of the values from the original analysis to the repeated analysis. Athough the average math score, average reading score, passing math percentage, passing reading percentage, and overall passing percentage show minute changes, the changes are less than 1% and can be round off easily. While rest of the data, total schools, total students, and total budget remains the same.
  
 _Original Analysis_:
 
@@ -27,7 +27,8 @@ _Repeated Analysis_:
  
 ### The School Summary
 
-For the school summary we can see below, there's a significant drop of percentages from the original analysis to repeated analysis. The passing math percentage dropped from 93% to 67%, passing reading percentage dropped from 97% to 69%, and the overall passing percentage dropped from 91% to 65%. So, replacing the 9th grade students from the data set and recalculating with 10th - 12th grade has a huge impact on the data set.
+For the school summary data, as we can see below, there's a significant drop of percentages from the original analysis to the repeated analysis. The passing math percentage dropped from 93% to 67%, passing reading percentage dropped from 97% to 69%, and the overall passing percentage dropped from 91% to 65%. So, replacing the 9th grade students and recalculating with 10th - 12th grade has a huge impact on the data set.
+
 _Original Analysis_:
 
 <img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
