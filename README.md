@@ -39,6 +39,8 @@ _Repeated Analysis_:
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+After replacing the ninth graders' math and reading scores, the rank position of the Thomas High School's relative to the other schools got affected. In the original analysis, Thomas High School ranked 2nd position which dropped to 8th position from the bottom after the repeated analysis.
+
 _Original Analysis_:
 
 <img width="1013" alt="THS_Original" src="https://user-images.githubusercontent.com/95826875/150667677-86cdf22e-bd76-4450-affd-b23589b8d88c.png">
