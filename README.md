@@ -36,7 +36,7 @@ _Original Analysis_:
 
 <img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
 <img width="1014" alt="School_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150667114-a7cdc613-30aa-4c6d-b41a-f13d2cf330da.png">
 
@@ -48,7 +48,7 @@ _Original Analysis_:
 
 <img width="1013" alt="THS_Original" src="https://user-images.githubusercontent.com/95826875/150667677-86cdf22e-bd76-4450-affd-b23589b8d88c.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
 <img width="1021" alt="THS_Adjusted" src="https://user-images.githubusercontent.com/95826875/150667685-c65fab7b-9e5b-40c9-8139-73a61cd116ed.png">
 
@@ -68,13 +68,13 @@ Original Reading Scores by Grade
 
 <img width="315" alt="reading_scores_original" src="https://user-images.githubusercontent.com/95826875/150668624-233ec4f9-116e-4113-8f1a-31cef559a03f.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
-Adjusted Math Scores by Grade
+Updated Math Scores by Grade
 
 <img width="330" alt="math_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150668679-31ddad17-7a5a-4a2e-9489-41ced538c4df.png">
 
-Adjusted Reading Scores by Grade
+Updated Reading Scores by Grade
 
 <img width="320" alt="reading_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150668751-8b65cdc5-6145-46e2-976b-6f7dd4557d42.png">
 
@@ -86,7 +86,7 @@ _Original Analysis_:
 
 <img width="857" alt="spending_originated" src="https://user-images.githubusercontent.com/95826875/150669037-40f94810-d446-4c99-b4cf-e30206db775a.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
 <img width="855" alt="spending_adjusted" src="https://user-images.githubusercontent.com/95826875/150668836-31778e0e-1afc-49be-88f7-3a2296a098e7.png">
 
@@ -98,7 +98,7 @@ _Original Analysis_:
 
 <img width="783" alt="size_original" src="https://user-images.githubusercontent.com/95826875/150669149-1d5b9854-c39a-4ac9-b6dc-bae0bf7038f8.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
 <img width="780" alt="size_adjusted" src="https://user-images.githubusercontent.com/95826875/150669178-f86c7ddd-0c45-4ab8-bcd2-2e7aed6d81d1.png">
 
@@ -110,13 +110,13 @@ _Original Analysis_:
 
 <img width="763" alt="type_original" src="https://user-images.githubusercontent.com/95826875/150669284-196a04d3-9dc8-42c0-8881-9176f6796796.png">
 
-_Repeated Analysis_:
+_Updated Analysis_:
 
 <img width="748" alt="type_adjusted" src="https://user-images.githubusercontent.com/95826875/150669319-26a211d7-349c-4030-8dea-6ed261b7bf6d.png">
 
 ## Summary
 
-Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are as follows:
+Although not much has changed after we have replaced the scores of the 9th grade students, some of the changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are as follows:
 1. The district summary data shows minute changes, whereas in the school summary data, the overall passing percentage significantly dropped from 91% to 65%.
 2. Thomas High School's ranking dropped from 2nd position to 8th position from bottom, relative to other schools.
 3. Thomas High School's math and reading scores shows 'nan' (which denotes null value) after replacing the 9th grade.
