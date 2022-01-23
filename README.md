@@ -3,9 +3,12 @@
 ## Overview of the School District Analysis
 Maria the chief data scientist for a city school district is responsible for analyzing information from a variety of sources, and in a variety of formats. In this role she is tasked with preparing all standardized test data for analysis, reporting, and presentation to provide insights about performance trends and patterns. These insights are used to inform discussions and strategic descisions at the school and district level.
 
-Later, Maria and her supervisor got notified about the evidence of academic dishonesty, specifically reading and math grades for Thomas High School ninth graders appear to have been altered. So, this analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
+Later, Maria and her supervisor got notified about the evidence of academic dishonesty, specifically reading and math grades for Thomas High School ninth graders appear to have been altered.
+
+This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
 
 ### Purpose
+
 The pupose of this analysis is to help Maria analyze data on student funding and student's standardized test scores, and to aggregate the data and showcase trends in school performance. Also, to repeat the school district analysis to see how does replacing the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact affected the overall analysis.
 
 ## Results
@@ -53,7 +56,7 @@ _Repeated Analysis_:
 
 #### Math and Reading Scores by Grade
 
-Thomas High School have math average 83.6 and reading average 83.7 for the 9th grade in the original analysis. After replacing the ninth-grade scores, the math average and reading average values got chnages to 'nan', which are null-values in python programming language.
+Thomas High School have math average 83.6 and reading average 83.7 for the 9th grade in the original analysis. After replacing the ninth-grade scores, the math average and reading average values got changed to 'nan' (which denotes null-value in python programming language).
 
 _Original Analysis_:
 
@@ -77,7 +80,7 @@ Adjusted Reading Scores by Grade
 
 #### Scores by School Spending
 
-Thomas High School comes under the $630-$644 spending range. After replacing the 9th grade score, there was very minute impact on scores by school spending.
+Thomas High School comes under the $630-644 spending range. After replacing the 9th grade score, there is very minute impact on scores by school spending.
 
 _Original Analysis_:
 
@@ -89,7 +92,7 @@ _Repeated Analysis_:
 
 #### Scores by School Size
 
-Thomas High School is a medium sized school. After replacing the 9th grade score, there was very minute impact on scores by school size.
+Thomas High School is a medium sized school. After replacing the 9th grade score, there is very minute impact on scores by school size.
 
 _Original Analysis_:
 
@@ -101,7 +104,7 @@ _Repeated Analysis_:
 
 #### Scores by School Type
 
-Thomas High School is a Charter school. After replacing the 9th grade score, there was very minute impact on scores by school type.
+Thomas High School is a Charter school. After replacing the 9th grade score, there is very minute impact on scores by school type.
 
 _Original Analysis_:
 
@@ -114,7 +117,7 @@ _Repeated Analysis_:
 ## Summary
 
 Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are as follows:
-1. The district summary data shows minute changes, where as in the school summary data, the overall passing percentage significantly dropped from 91% to 65%.
+1. The district summary data shows minute changes, whereas in the school summary data, the overall passing percentage significantly dropped from 91% to 65%.
 2. Thomas High School's ranking dropped from 2nd to 8th relative to other schools.
 3. Thomas High School's math and reading scores got replaced by 'nan' after replacing the 9th grade.
 4. After replacing the 9th grade score, there were very minute impact on scores by school spending, school size, and school type.
