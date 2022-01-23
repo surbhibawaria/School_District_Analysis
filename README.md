@@ -68,9 +68,11 @@ Adjusted Reading Scores by Grade
 
 _Original Analysis_:
 
-
+<img width="857" alt="spending_originated" src="https://user-images.githubusercontent.com/95826875/150669037-40f94810-d446-4c99-b4cf-e30206db775a.png">
 
 _Adjusted Analysis_:
+
+<img width="855" alt="spending_adjusted" src="https://user-images.githubusercontent.com/95826875/150668836-31778e0e-1afc-49be-88f7-3a2296a098e7.png">
 
 #### Scores by school size
 
