@@ -10,25 +10,28 @@ The pupose of this analysis is to help Maria analyze data on student funding and
 
 ## Results
 
-### How is the District Summary affected?
+After all the ninth-grade student data for Thomas High School was replaced with NaN, below are the affected results summmarized:
 
+### The District Summary
+
+As we can see below, for the district summary, there are nominal changes in some of the values from the original analysis to the repeated analysis. Athough the average math score, average reading score, passing math percentage, passing reading percentage, and overall passing percentage show minute changes, the changes are less than 1% and can be round off easily. While rest of the data, total schools, total students, and total budget remains the same.
+ 
 _Original Analysis_:
 
-<img width="960" alt="district_summary_original" src="https://user-images.githubusercontent.com/95826875/150696877-3ef29cb7-769e-4aed-8a31-eba999492232.png">
+<img width="975" alt="district_summary_original" src="https://user-images.githubusercontent.com/95826875/150697059-af02501f-45e8-413f-a85c-4a4b03c75411.png">
 
 _Repeated Analysis_:
 
-<img width="934" alt="district_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150666042-14d35856-72e3-4040-82f0-c7127bffedeb.png">
+<img width="950" alt="district_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150697195-1a5403d8-dbfd-429b-8569-5ab2499b5e04.png">
 
-As we can see above, for the district summary, the average math score decreased by 0.1 in the repeated analysis. The passing math percentage decreased by 1%, passing reading percentage decreased by 0.3%, and overall passing percentage decreased by 0.1% while rest of the data remains same.
-
-### How is the School Summary affected?
+ 
+### The School Summary
 
 _Original Analysis_:
 
 <img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
 
-_Adjusted Analysis_:
+_Repeated Analysis_:
 
 <img width="1014" alt="School_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150667114-a7cdc613-30aa-4c6d-b41a-f13d2cf330da.png">
 
@@ -38,7 +41,7 @@ _Original Analysis_:
 
 <img width="1013" alt="THS_Original" src="https://user-images.githubusercontent.com/95826875/150667677-86cdf22e-bd76-4450-affd-b23589b8d88c.png">
 
-_Adjusted Analysis_:
+_Repeated Analysis_:
 
 <img width="1021" alt="THS_Adjusted" src="https://user-images.githubusercontent.com/95826875/150667685-c65fab7b-9e5b-40c9-8139-73a61cd116ed.png">
 
@@ -56,7 +59,7 @@ Original Reading Scores by Grade
 
 <img width="315" alt="reading_scores_original" src="https://user-images.githubusercontent.com/95826875/150668624-233ec4f9-116e-4113-8f1a-31cef559a03f.png">
 
-_Adjusted Analysis_:
+_Repeated Analysis_:
 
 Adjusted Math Scores by Grade
 
@@ -72,7 +75,7 @@ _Original Analysis_:
 
 <img width="857" alt="spending_originated" src="https://user-images.githubusercontent.com/95826875/150669037-40f94810-d446-4c99-b4cf-e30206db775a.png">
 
-_Adjusted Analysis_:
+_Repeated Analysis_:
 
 <img width="855" alt="spending_adjusted" src="https://user-images.githubusercontent.com/95826875/150668836-31778e0e-1afc-49be-88f7-3a2296a098e7.png">
 
@@ -82,7 +85,7 @@ _Original Analysis_:
 
 <img width="783" alt="size_original" src="https://user-images.githubusercontent.com/95826875/150669149-1d5b9854-c39a-4ac9-b6dc-bae0bf7038f8.png">
 
-_Adjusted Analysis_:
+_Repeated Analysis_:
 
 <img width="780" alt="size_adjusted" src="https://user-images.githubusercontent.com/95826875/150669178-f86c7ddd-0c45-4ab8-bcd2-2e7aed6d81d1.png">
 
@@ -92,7 +95,7 @@ _Original Analysis_:
 
 <img width="763" alt="type_original" src="https://user-images.githubusercontent.com/95826875/150669284-196a04d3-9dc8-42c0-8881-9176f6796796.png">
 
-_Adjusted Analysis_:
+_Repeated Analysis_:
 
 <img width="748" alt="type_adjusted" src="https://user-images.githubusercontent.com/95826875/150669319-26a211d7-349c-4030-8dea-6ed261b7bf6d.png">
 
