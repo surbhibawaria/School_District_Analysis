@@ -48,25 +48,27 @@ _Original Analysis_:
 
 Original Math Scores by Grade
 
-<img width="459" alt="math_scores_original" src="https://user-images.githubusercontent.com/95826875/150667903-bf859b1a-b845-49f7-bce2-db1d0ee77559.png">
+<img width="338" alt="math_scores_original" src="https://user-images.githubusercontent.com/95826875/150668619-28e99a7c-c91b-4350-8e02-5b858d1bfe9f.png">
 
 Original Reading Scores by Grade
 
-<img width="447" alt="reading_scores_original" src="https://user-images.githubusercontent.com/95826875/150667907-b36a95de-f63b-48df-acb3-e3a7fa338972.png">
+<img width="315" alt="reading_scores_original" src="https://user-images.githubusercontent.com/95826875/150668624-233ec4f9-116e-4113-8f1a-31cef559a03f.png">
 
 _Adjusted Analysis_:
 
 Adjusted Math Scores by Grade
 
-<img width="466" alt="math_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150667931-1c945413-d4b1-439e-9ee8-5f2d83a9d5cf.png">
+<img width="330" alt="math_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150668679-31ddad17-7a5a-4a2e-9489-41ced538c4df.png">
 
 Adjusted Reading Scores by Grade
 
-<img width="460" alt="reading_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150667974-c30ec0a0-a9e7-4ec9-9259-2153c7352d9b.png">
+<img width="320" alt="reading_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150668751-8b65cdc5-6145-46e2-976b-6f7dd4557d42.png">
 
 #### Scores by school spending
 
 _Original Analysis_:
+
+
 
 _Adjusted Analysis_:
 
