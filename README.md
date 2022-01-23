@@ -77,6 +77,8 @@ Adjusted Reading Scores by Grade
 
 #### Scores by School Spending
 
+Thomas High School comes under the $630-$644 spending range. After replacing the 9th grade score, there was very minute impact on scores by school spending.
+
 _Original Analysis_:
 
 <img width="857" alt="spending_originated" src="https://user-images.githubusercontent.com/95826875/150669037-40f94810-d446-4c99-b4cf-e30206db775a.png">
@@ -87,6 +89,8 @@ _Repeated Analysis_:
 
 #### Scores by School Size
 
+Thomas High School is a medium sized school. After replacing the 9th grade score, there was very minute impact on scores by school size.
+
 _Original Analysis_:
 
 <img width="783" alt="size_original" src="https://user-images.githubusercontent.com/95826875/150669149-1d5b9854-c39a-4ac9-b6dc-bae0bf7038f8.png">
@@ -96,6 +100,8 @@ _Repeated Analysis_:
 <img width="780" alt="size_adjusted" src="https://user-images.githubusercontent.com/95826875/150669178-f86c7ddd-0c45-4ab8-bcd2-2e7aed6d81d1.png">
 
 #### Scores by School Type
+
+Thomas High School is a Charter school. After replacing the 9th grade score, there was very minute impact on scores by school type.
 
 _Original Analysis_:
 
