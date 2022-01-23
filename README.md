@@ -12,43 +12,75 @@ The pupose of this analysis is to help Maria analyze data on student funding and
 
 ### How is the district summary affected?
 
-Original Analysis:
+_Original Analysis_:
 
 <img width="933" alt="district_summary_original" src="https://user-images.githubusercontent.com/95826875/150666020-80dc7051-2073-4f9b-963f-95c2b1545d20.png">
 
-Adjusted Analysis:
+_Adjusted Analysis_:
 
 <img width="934" alt="district_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150666042-14d35856-72e3-4040-82f0-c7127bffedeb.png">
 
 ### How is the school summary affected?
 
-Original Analysis:
+_Original Analysis_:
 
 <img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
 
-Adjusted Analysis:
+_Adjusted Analysis_:
 
 <img width="1014" alt="School_summary_adjusted" src="https://user-images.githubusercontent.com/95826875/150667114-a7cdc613-30aa-4c6d-b41a-f13d2cf330da.png">
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Original Analysis:
+_Original Analysis_:
 
 <img width="1013" alt="THS_Original" src="https://user-images.githubusercontent.com/95826875/150667677-86cdf22e-bd76-4450-affd-b23589b8d88c.png">
 
-Adjusted Analysis:
+_Adjusted Analysis_:
 
 <img width="1021" alt="THS_Adjusted" src="https://user-images.githubusercontent.com/95826875/150667685-c65fab7b-9e5b-40c9-8139-73a61cd116ed.png">
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade
+#### Math and Reading Scores by Grade
+
+_Original Analysis_:
+
+Original Math Scores by Grade
+
+<img width="459" alt="math_scores_original" src="https://user-images.githubusercontent.com/95826875/150667903-bf859b1a-b845-49f7-bce2-db1d0ee77559.png">
+
+Original Reading Scores by Grade
+
+<img width="447" alt="reading_scores_original" src="https://user-images.githubusercontent.com/95826875/150667907-b36a95de-f63b-48df-acb3-e3a7fa338972.png">
+
+_Adjusted Analysis_:
+
+Adjusted Math Scores by Grade
+
+<img width="466" alt="math_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150667931-1c945413-d4b1-439e-9ee8-5f2d83a9d5cf.png">
+
+Adjusted Reading Scores by Grade
+
+<img width="460" alt="reading_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150667974-c30ec0a0-a9e7-4ec9-9259-2153c7352d9b.png">
 
 #### Scores by school spending
 
+_Original Analysis_:
+
+_Adjusted Analysis_:
+
 #### Scores by school size
 
+_Original Analysis_:
+
+_Adjusted Analysis_:
+
 #### Scores by school type
+
+_Original Analysis_:
+
+_Adjusted Analysis_:
 
 ## Summary
 
