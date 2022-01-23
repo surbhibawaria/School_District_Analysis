@@ -64,7 +64,7 @@ Adjusted Reading Scores by Grade
 
 <img width="320" alt="reading_scores_adjusted" src="https://user-images.githubusercontent.com/95826875/150668751-8b65cdc5-6145-46e2-976b-6f7dd4557d42.png">
 
-#### Scores by school spending
+#### Scores by School Spending
 
 _Original Analysis_:
 
@@ -74,13 +74,17 @@ _Adjusted Analysis_:
 
 <img width="855" alt="spending_adjusted" src="https://user-images.githubusercontent.com/95826875/150668836-31778e0e-1afc-49be-88f7-3a2296a098e7.png">
 
-#### Scores by school size
+#### Scores by School Size
 
 _Original Analysis_:
 
+<img width="783" alt="size_original" src="https://user-images.githubusercontent.com/95826875/150669149-1d5b9854-c39a-4ac9-b6dc-bae0bf7038f8.png">
+
 _Adjusted Analysis_:
 
-#### Scores by school type
+<img width="780" alt="size_adjusted" src="https://user-images.githubusercontent.com/95826875/150669178-f86c7ddd-0c45-4ab8-bcd2-2e7aed6d81d1.png">
+
+#### Scores by School Type
 
 _Original Analysis_:
 
