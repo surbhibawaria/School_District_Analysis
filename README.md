@@ -27,8 +27,7 @@ _Repeated Analysis_:
  
 ### The School Summary
 
-For the school summary we can see below, there's a significant drop of percentage from the original analysis to repeated analysis. 
-
+For the school summary we can see below, there's a significant drop of percentages from the original analysis to repeated analysis. The passing math percentage dropped from 93% to 67%, passing reading percentage dropped from 97% to 69%, and the overall passing percentage dropped from 91% to 65%. So, replacing the 9th grade students from the data set and recalculating with 10th - 12th grade has a huge impact on the data set.
 _Original Analysis_:
 
 <img width="1017" alt="School_summary_original" src="https://user-images.githubusercontent.com/95826875/150666272-6d30d700-5cf0-45fc-b065-b5e9745fbf26.png">
