@@ -88,7 +88,11 @@ _Adjusted Analysis_:
 
 _Original Analysis_:
 
+<img width="763" alt="type_original" src="https://user-images.githubusercontent.com/95826875/150669284-196a04d3-9dc8-42c0-8881-9176f6796796.png">
+
 _Adjusted Analysis_:
+
+<img width="748" alt="type_adjusted" src="https://user-images.githubusercontent.com/95826875/150669319-26a211d7-349c-4030-8dea-6ed261b7bf6d.png">
 
 ## Summary
 
